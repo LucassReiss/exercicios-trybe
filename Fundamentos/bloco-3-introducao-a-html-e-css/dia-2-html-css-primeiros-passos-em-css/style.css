@@ -1,0 +1,32 @@
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+}
+h1 {
+    color: orange;
+}
+ul {
+    background-color: bisque;
+}
+p {
+  font-weight: 600;
+  font-size: 3em;
+  font-style: italic;
+  
+}
+body {
+  font-size: 16px;
+}
+
+.lista {
+    background-color: aquamarine;
+}
+#amarelao {
+  background-color: yellow;
+}
+#vermelhao {
+  background-color: red;
+}
+#marromzao {
+  background-color: brown;
+}
